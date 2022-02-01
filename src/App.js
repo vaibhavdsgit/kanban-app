@@ -1,7 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
 import Board from './Components/Board/Board';
-import Addable from './Components/Addable/Addable';
 import { useState } from 'react';
 
 
