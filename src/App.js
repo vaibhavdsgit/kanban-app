@@ -18,16 +18,7 @@ function App() {
     {
       id: 0,
       title: boardType[0],
-      cards:[
-        // {
-        //   id: Date.now() + Math.random(),
-        //   title:"Card 1"
-        // },
-        // {
-        //   id: Date.now() + Math.random(),
-        //   title:"Card 2"
-        // }
-      ]
+      cards:[]
     },
     {
       id: 1,
